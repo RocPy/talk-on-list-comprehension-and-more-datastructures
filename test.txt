@@ -4,9 +4,9 @@ Remy will get into a discussion of VirtualEnv (Virtual Environment) basics. Virt
 
 Rich will talk about Tmux and how he utilizes Vim within it. Tmux is a handy little tool allows you to configure and save sets of terminal windows and with lots of nifty helper functionality.  
 
-Josh will give a basics of Git discussion, to help introduce what has become on of our favorite source control systems.
+Josh will give a basics of Git discussion, to helhis website with GitHub, Pelican, and Travis-CI. Pelican is a static site generator andp introduce what has become on of our favorite source control systems.
 
-Ryan Peck will talk about how he generates his website with GitHub, Pelican, and Travis-CI. Pelican is a static site generator and Travis-CI is a hosted continuous integration service. 
+Ryan Peck will talk about how he generates  Travis-CI is a hosted continuous integration service. 
 
 If we still have time, we would love to hear about what your favorite development environment includes. 
 
