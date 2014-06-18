@@ -1,15 +1,6 @@
-We'll start out by continuing with Ralph's Python module of the month.
+w[;apoeif0]
 
-Remy will get into a discussion of VirtualEnv (Virtual Environment) basics. VirtualEnv allows you to have separate Python environments with different sets of installed libraries on the box! He will then move on to Pyflakes and pep8. These tools will help you identify errors in your code before they blow up in your face, most helpful!
+aw]-etjj
 
-Rich will talk about Tmux and how he utilizes Vim within it. Tmux is a handy little tool allows you to configure and save sets of terminal windows and with lots of nifty helper functionality.  
+wpeot3w-4
 
-Josh will give a basics of Git discussion, to helhis website with GitHub, Pelican, and Travis-CI. Pelican is a static site generator andp introduce what has become on of our favorite source control systems.
-
-Ryan Peck will talk about how he generates  Travis-CI is a hosted continuous integration service. 
-
-If we still have time, we would love to hear about what your favorite development environment includes. 
-
-We may even get to hear from Rich about CTypes! If time permits, and if not it will be something to look forward to in the future. 
-
-Hope to see you there!
